@@ -2,7 +2,7 @@
 
 * Студент: [Алексей Закиев](https://up.htmlacademy.ru/htmlcss/36/user/2140615).
 * Наставник: `Евгений Котов`(https://htmlacademy.ru/profile/evgeniy_kotov).
-
+* Выложен на: https://device-shop.netlify.app
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
